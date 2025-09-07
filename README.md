@@ -51,12 +51,6 @@ Go to 👉 [http://localhost:5173](http://localhost:5173) (if using Vite).
 
 ---
 
-## 📸 Screenshots  
-
-(Add your app screenshots here once ready)  
-
----
-
 ## 🔮 Future Enhancements  
 
 - ✅ Authentication (private access for each shopkeeper)  
