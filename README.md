@@ -1,30 +1,71 @@
-# Udhari App
+# 💳 CreditKeeper  
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+**CreditKeeper** is a modern app for shop owners to **record and manage customer credits** with ease.  
+It provides a clean, professional interface with **light/dark themes**, smooth animations, and an intuitive way to track items, costs, and pending totals.  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/diptesh17s-projects/v0-udhari-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/u3a82oxDGLa)
+---
 
-## Overview
+## ✨ Features  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+- 👤 **Customer Management** – Add and manage your customers.  
+- 📋 **Item & Cost Tracking** – Record items with their prices (e.g., Soap – ₹10, Water – ₹20).  
+- ➕ **Quick Add Items** – Simple input form for adding new items with cost.  
+- ❌ **Delete Items** – Remove individual items when payment is cleared.  
+- 💰 **Automatic Totals** – Always shows the total pending amount for each customer.  
+- 🌗 **Light & Dark Themes** – Toggle between professional light and dark modes.  
+- 🎨 **Modern UI Design** – Card-based layout with rounded corners, soft shadows, and pastel accents.  
+- 📱 **Responsive Design** – Works seamlessly on desktop, tablet, and mobile.  
+- ⚡ **Smooth Animations** – Built-in transitions with Framer Motion for a better UX.  
 
-## Deployment
+---
 
-Your project is live at:
+## 🛠️ Tech Stack  
 
-**[https://vercel.com/diptesh17s-projects/v0-udhari-app](https://vercel.com/diptesh17s-projects/v0-udhari-app)**
+- **React.js** – Frontend framework  
+- **Tailwind CSS** – Styling with light/dark mode support  
+- **Framer Motion** – Animations and transitions  
+- **Lucide React** – Clean icons  
 
-## Build your app
+---
 
-Continue building your app on:
+## 🚀 Getting Started  
 
-**[https://v0.app/chat/projects/u3a82oxDGLa](https://v0.app/chat/projects/u3a82oxDGLa)**
+### 1. Clone the Repository  
+```bash
+git clone https://github.com/your-username/CreditKeeper.git
+cd CreditKeeper
+```
 
-## How It Works
+### 2. Install Dependencies  
+```bash
+npm install
+```
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 3. Run the App  
+```bash
+npm run dev
+```
+
+### 4. Open in Browser  
+Go to 👉 [http://localhost:5173](http://localhost:5173) (if using Vite).  
+
+---
+
+## 📸 Screenshots  
+
+(Add your app screenshots here once ready)  
+
+---
+
+## 🔮 Future Enhancements  
+
+- ✅ Authentication (private access for each shopkeeper)  
+- ✅ Export reports (PDF/Excel of transactions)  
+- ✅ Notifications/reminders for due payments  
+- ✅ Cloud backup with database integration  
+
+---
+
+## 📝 License  
+
+This project is licensed under the **MIT License** – free to use and modify.  
